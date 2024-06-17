@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nana Ama</h1>
-<h3 align="center">A programmer from Ghana.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanama16&label=Profile%20views&color=0e75b6&style=flat" alt="nanama16" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nanama_achiaa" target="blank"><img src="https://img.shields.io/twitter/follow/nanama_achiaa?logo=twitter&style=for-the-badge" alt="nanama_achiaa" /></a> </p>
 
-- 🔭 I’m currently working on **the development of an e-commerce website.**
+- 🔭 I’m currently working on **my Final Year Project.**
 
-- 🌱 I’m currently learning **python, swift.**
+- 🌱 I’m currently learning **next js.**
 
 - 👯 I’m looking to collaborate on **huge life changing projects.**
 
